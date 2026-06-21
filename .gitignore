@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Eclipse
+bin/
+.settings/
+.project
+.classpath
+.metadata
+
+# IntelliJ
+out/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
